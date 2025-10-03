@@ -4,3 +4,5 @@ geopandas
 shapely
 fiona
 pyproj
+leafmap
+
